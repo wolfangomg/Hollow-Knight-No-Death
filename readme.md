@@ -12,9 +12,9 @@ This mod was done by [Hollow Knight Modding community](https://discord.gg/hollow
 - You need to have [Mod Installer](https://www.nexusmods.com/hollowknight/mods/9) installed
 - Download the file and extract it DIRECTLY in the Mods folder shown below
 ```bash
-D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\Mods
+SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\Mods
 ```
-You would have a route like this
+You would have a route like this, is just an example
 
 
 ### For version 1.5:
@@ -25,6 +25,6 @@ You would have a route like this
 
 
 ```bash
-C:\Program Files (x86)\Steam\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\Mods
+Steam\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\Mods
 ```
-You would have a route like this
+You would have a route like this, is just an example
