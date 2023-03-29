@@ -9,7 +9,7 @@ This mod was done by [Hollow Knight Modding community](https://discord.gg/hollow
 ## Usage
 
 ### For version 1.4:
-- You need to have [Mod Installer](https://www.nexusmods.com/hollowknight/mods/9) installed
+- You need to have [Mod Installer](https://drive.google.com/file/d/1WCCB8Qd3gnhbDLpE4Xlu0-TyX26jR6By/view) installed
 - Download the file and extract it DIRECTLY in the Mods folder shown below
 ```bash
 SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\Mods
